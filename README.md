@@ -1,2 +1,8 @@
-# Deep_Learning
-Learning Machine Learning and Deep Learning by Coursera or Youtube
+# Deep Learning
+
+Learn Machine Learning and Deep Learning from Coursera or YouTube
+
+## Contributions
+
+* Deep Learning Courses by Andrew Ng on Coursera
+* 周莫煩 channel on Youtube
